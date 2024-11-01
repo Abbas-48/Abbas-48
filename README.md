@@ -3,7 +3,7 @@
 - 👀 I’m interested in web development, especially with WordPress, React, Next.js, Svelte, and Python. I also have a strong interest in cloud technologies and solutions.
 - 🌱 I’m currently learning more about cloud platforms and how to integrate them into web applications.
 - 💞️ I’m looking to collaborate on open-source projects, innovative web applications, and cloud-based solutions.
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [ghulam.abbas@aiforlife.ai](mailto:ghulam.abbas@aiforlife.ai)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love experimenting with new tech stacks and exploring the latest trends in web development and cloud computing!
 
